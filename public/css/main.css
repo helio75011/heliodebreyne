@@ -1,0 +1,35 @@
+.bord {
+  border-radius: 50px
+}
+.navbar-burger {
+  background-color: rgba(0,0,0,0)
+}
+.fond {
+  background-color: #fff
+}
+.taille {
+  width: 5rem
+}
+.bordure {
+  border-radius: 15px
+}
+.marge {
+  margin-left: 15px;
+  margin-right: 15px
+}
+.angular.taille {
+  width: 5px
+}
+.taille-deux {
+  width: 5.5rem
+}
+.taille-2 {
+  width: 7rem
+}
+.background {
+  background-color: #d87777
+}
+.sql {
+  width: 5rem
+}
+
